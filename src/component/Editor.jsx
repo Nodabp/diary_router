@@ -1,4 +1,4 @@
-import './editor.css'
+import "./Editor.css";
 import {useEffect, useState} from "react";
 import {emotionList, getFormattedDate} from "../util.js";
 import {Button} from "./Button.jsx";
